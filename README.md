@@ -16,4 +16,4 @@ DrawEM 7 tissue labels segmentation was named as "Atlas_xxw_tissue_labels.nii.gz
 DrawEM 57 parcellation labels segmentation was named as "Atlas_xxw_labels.nii.gz"\
 DrawEM 89 all regional labels segmentation was named as "Atlas_xxw_all_labels.nii.gz"
 
-For more details, please refer to: Spatiotemporal atlas of the fetal brain depicts cortical developmental gradient in Chinese population. https://www.biorxiv.org/content/10.1101/2022.05.09.491258v1.full
+For more details, please refer to: Spatiotemporal atlas of the fetal brain depicts cortical developmental gradient in Chinese population. (https://www.biorxiv.org/content/10.1101/2022.05.09.491258v2)
