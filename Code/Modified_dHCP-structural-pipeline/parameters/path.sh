@@ -1,0 +1,2 @@
+export DRAWEMDIR=/usr/local/src/structural-pipeline/build/MIRTK/Packages/DrawEM
+export PATH=/usr/local/src/structural-pipeline/build/workbench/build/CommandLine:/usr/local/src/structural-pipeline/build/workbench/build/Desktop::/usr/local/src/structural-pipeline/build/MIRTK/build/bin:/usr/local/src/structural-pipeline/build/SphericalMesh/build/bin:/usr/local/src/structural-pipeline/build/pipeline/build/bin:${PATH}

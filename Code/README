@@ -1,0 +1,17 @@
+
+Contact:
+Xinyi Xu: xuxinyi_bme@zju.edu.cn
+Dan Wu: danwu.bme@zju.edu.cn
+
+The codes were used for fetal brain atlas construction and cortical analysis
+
+` AtlasConstruction.sh - atlas construction pipeline
+  Note: Please see the script's comments to see how the pipeline is used.
+
+` The modified cortical analysis pipeline was saved in  ../Modified_dHCP-structural-pipeline/
+  This was based on dHCP-structural-pipleine (docker version: new-mirtk)
+  The modified pipeline requires docker (https://docs.docker.com/engine/installation/) and original dHCP-structural-pipeline (docker version) (https://github.com/BioMedIA/dhcp-structural-pipeline)
+  After successfully installed original pipeline, the modified pipeline can be used by
+  `docker buld` command
+  
+  Note: the parameters related to cortical surface construction can be changed on configuration file: ../parameters/recon-neonatal-cortex.cfg
